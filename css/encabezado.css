@@ -1,0 +1,85 @@
+.enc{
+    background-color:#fab5b7;
+    padding: 20px;
+}
+.enc_contenedor{
+    width: 98%;
+    margin: 0 auto;
+}
+.logo{
+    height: 200px;
+    width: 180px;
+    margin-right:20px ;
+}
+.contenido_marca{
+
+ 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.nombreempresa{
+    font-size: 40px;
+    color: #f5fcfc;
+    font-family: 'Sigmar', cursive;
+}
+.navegacion_lista{
+    display: flex;
+    justify-content:space-between;
+    font-family: 'Sigmar', cursive;
+    font-size: 20px;
+
+}
+.items_link{
+    color: #89635c;
+    text-decoration: none;
+}
+.foto1{
+    height: 150px;
+    width: 150px;
+    border-radius: 80px;
+    margin-right: 50px;
+    margin-top: 20px;
+    
+}
+.descripcion_personal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.carrera{
+    color: rgb(226, 60, 60);
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.tit_carrera{
+    color:#f5fcfc;
+}
+.nombre{
+    color: #2e3030;
+}
+.redes_lista{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+.wat{
+    width: 80px;
+    height: 80px;
+    margin-right: 40px;
+   
+  
+}
+.link_descarga{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.descarga{
+    text-decoration: none;
+    color:#2e3030;
+}
